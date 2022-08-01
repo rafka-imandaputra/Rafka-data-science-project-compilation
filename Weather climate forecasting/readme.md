@@ -1,7 +1,7 @@
 # Time-Series Forecasting Weather Climate in Jena, Germany
 
 ### Overview
-Course assignment for "Kelas Pengembangan Machine Learning" held by Dicoding Academy. Create a machine learning model that is able to predict the weather with a Mean Absolute Error below 10% of the data scale
+Course assignment for "Kelas Pengembangan Machine Learning" held by Dicoding Academy. Create a machine learning model that is able to predict the weather with a mean absolute error below 10% of the data scale.
 
 ### Data Source
 https://www.kaggle.com/mnassrib/jena-climate
