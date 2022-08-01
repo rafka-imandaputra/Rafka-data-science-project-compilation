@@ -1,6 +1,6 @@
 # Circle-K Sales Analytics
 
-### Goals
+### Overview
 Processing minimarket sales data to see trends that occur and then formulating it to make recommendations for various strategic decisions that can be used to increase profits in Q4 2020.
 
 ### Data Source
